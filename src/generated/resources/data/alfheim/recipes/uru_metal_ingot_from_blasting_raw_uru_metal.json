@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "uru_metal",
+  "ingredient": {
+    "item": "alfheim:raw_uru_metal"
+  },
+  "result": "alfheim:uru_metal_ingot"
+}

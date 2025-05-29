@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "alfheim:block/alfheim_portal_core"
+    },
+    "active=true": {
+      "model": "alfheim:block/alfheim_portal_core_active"
+    }
+  }
+}

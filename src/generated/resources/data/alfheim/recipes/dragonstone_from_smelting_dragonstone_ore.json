@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "dragonstone",
+  "ingredient": {
+    "item": "alfheim:dragonstone_ore"
+  },
+  "result": "botania:dragonstone"
+}

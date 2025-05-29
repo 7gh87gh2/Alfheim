@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#alfheim:alfheim_biomes",
+  "features": "alfheim:dreamwood_placed",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "alfheim:block/alfheim_portal_block"
+    },
+    "facing=east": {
+      "model": "alfheim:block/alfheim_portal_block", "y": 90
+    },
+    "facing=south": {
+      "model": "alfheim:block/alfheim_portal_block", "y": 180
+    },
+    "facing=west": {
+      "model": "alfheim:block/alfheim_portal_block", "y": 270
+    }
+  }
+}

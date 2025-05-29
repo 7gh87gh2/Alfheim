@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "alfheim:alfheim_portal_core"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "alfheim:blocks/alfheim_portal_core"
+}

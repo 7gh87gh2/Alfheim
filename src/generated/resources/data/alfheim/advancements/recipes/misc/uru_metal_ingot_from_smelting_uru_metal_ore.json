@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "alfheim:uru_metal_ingot_from_smelting_uru_metal_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_uru_metal_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alfheim:uru_metal_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_uru_metal_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "alfheim:uru_metal_ingot_from_smelting_uru_metal_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

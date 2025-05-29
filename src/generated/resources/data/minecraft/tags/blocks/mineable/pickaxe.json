@@ -1,0 +1,15 @@
+{
+  "values": [
+    "alfheim:alfheim_stone",
+    "alfheim:alfheim_cobblestone",
+    "alfheim:uru_metal_ore",
+    "alfheim:raw_uru_metal_block",
+    "alfheim:uru_metal_block",
+    "alfheim:elementium_ore",
+    "alfheim:raw_elementium_block",
+    "alfheim:dragonstone_ore",
+    "alfheim:mithril_ore",
+    "alfheim:raw_mithril_block",
+    "alfheim:mithril_block"
+  ]
+}

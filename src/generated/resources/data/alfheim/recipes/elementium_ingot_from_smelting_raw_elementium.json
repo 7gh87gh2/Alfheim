@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "elementium",
+  "ingredient": {
+    "item": "alfheim:raw_elementium"
+  },
+  "result": "botania:elementium_ingot"
+}

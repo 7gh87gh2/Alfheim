@@ -1,0 +1,29 @@
+{
+  "creativetab.alfheim_tab": "Alfheim",
+
+  "item.alfheim.raw_uru_metal": "Raw Uru Metal",
+  "item.alfheim.uru_metal_nugget": "Uru Metal Nugget",
+  "item.alfheim.uru_metal_ingot": "Uru Metal Ingot",
+  "item.alfheim.raw_elementium": "Raw Elementium",
+  "item.alfheim.raw_mithril": "Raw Mithril",
+  "item.alfheim.mithril_nugget": "Mithril Nugget",
+  "item.alfheim.mithril_ingot": "Mithril Ingot",
+  "item.alfheim.infused_dreamwood_twig": "Infused Dreamwood Twig",
+
+  "block.alfheim.alfheim_stone": "Alfheim Stone",
+  "block.alfheim.alfheim_cobblestone": "Alfheim Cobblestone",
+  "block.alfheim.alfheim_dirt": "Alfheim Dirt",
+
+  "block.alfheim.dreamwood_leaves": "Dreamwood Leaves",
+  "block.alfheim.dreamwood_sapling": "Dreamwood Sapling",
+
+  "block.alfheim.uru_metal_ore": "Uru Metal Ore",
+  "block.alfheim.uru_metal_block": "Uru Metal Block",
+  "block.alfheim.raw_uru_metal_block": "Raw Uru Metal Block",
+  "block.alfheim.elementium_ore": "Elementium Ore",
+  "block.alfheim.raw_elementium_block": "Raw Elementium Block",
+  "block.alfheim.dragonstone_ore": "Dragonstone Ore",
+  "block.alfheim.mithril_ore": "Mithril Ore",
+  "block.alfheim.mithril_block": "Mithril Block",
+  "block.alfheim.raw_mithril_block": "Raw Mithril Block"
+}
